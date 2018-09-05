@@ -1,0 +1,11 @@
+c:\users\iheb\documents\visual studio 2013\Projects\imgure Uploader\imgure Uploader\bin\Debug\imgure Uploader.exe
+c:\users\iheb\documents\visual studio 2013\Projects\imgure Uploader\imgure Uploader\bin\Debug\imgure Uploader.pdb
+c:\users\iheb\documents\visual studio 2013\Projects\imgure Uploader\imgure Uploader\bin\Debug\imgure Uploader.xml
+c:\users\iheb\documents\visual studio 2013\Projects\imgure Uploader\imgure Uploader\obj\Debug\imgure_Uploader.Form1.resources
+c:\users\iheb\documents\visual studio 2013\Projects\imgure Uploader\imgure Uploader\obj\Debug\imgure_Uploader.Resources.resources
+c:\users\iheb\documents\visual studio 2013\Projects\imgure Uploader\imgure Uploader\obj\Debug\imgure Uploader.vbproj.GenerateResource.Cache
+c:\users\iheb\documents\visual studio 2013\Projects\imgure Uploader\imgure Uploader\obj\Debug\imgure Uploader.exe
+c:\users\iheb\documents\visual studio 2013\Projects\imgure Uploader\imgure Uploader\obj\Debug\imgure Uploader.xml
+c:\users\iheb\documents\visual studio 2013\Projects\imgure Uploader\imgure Uploader\obj\Debug\imgure Uploader.pdb
+C:\Users\Iheb\documents\visual studio 2013\Projects\imgure Uploader\imgure Uploader\bin\Debug\imgure Uploader.exe.config
+C:\Users\Iheb\documents\visual studio 2013\Projects\imgure Uploader\imgure Uploader\obj\Debug\imgure Uploader.vbprojResolveAssemblyReference.cache
